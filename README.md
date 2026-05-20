@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 AI Builder | Data & Automation Enthusiast | Developing intelligent systems powered by LLMs, analytics, and multi-agent workflows. Focused on real-world AI applications across healthcare, data intelligence, and automation.
 
 
