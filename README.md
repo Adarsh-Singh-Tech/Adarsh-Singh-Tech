@@ -58,6 +58,134 @@ Technical breakdowns|AI industry insights|Project deep-dives|Workflow experiment
   <img src="https://img.shields.io/badge/Emergent_AI-0A0A0A?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
 
+## ☁️ Cloud • AI • Infrastructure Certifications
+
+<table>
+<tr>
+
+<td align="center" width="33%">
+<a href="https://www.credly.com/badges/b09a77b3-4377-48cc-b526-ea34f6d8cf69/public_url">
+<img src="./assets/certs/aws-restart-graduate.png" width="170" height="170"/><br><br>
+
+<b>AWS Re/Start Graduate</b><br>
+<sub>Issued Apr 2023</sub>
+</a>
+</td>
+
+<td align="center" width="33%">
+<a href="https://www.credly.com/badges/ab4fa3f4-63df-4e47-b1bc-6692ea49dd91/public_url">
+<img src="./assets/certs/introduction-to-cybersecurity.png" width="170" height="170"/><br><br>
+
+<b>Introduction to Cybersecurity</b><br>
+<sub>Issued Oct 2020</sub>
+</a>
+</td>
+
+<td align="center" width="33%">
+<a href="https://www.credly.com/badges/4a27a60b-15da-427a-bf7c-d92b6b706764/public_url">
+<img src="./assets/certs/introduction-to-iot.png" width="170" height="170"/><br><br>
+
+<b>Introduction to IoT</b><br>
+<sub>Issued Oct 2020</sub>
+</a>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="33%">
+<a href="https://www.credly.com/badges/75abaf73-3dab-4e6d-80b6-97026bd39296/public_url">
+<img src="./assets/certs/prompt-design-vertex-ai.png" width="170" height="170"/><br><br>
+
+<b>Prompt Design in Vertex AI</b><br>
+<sub>Earned Mar 2026</sub>
+</a>
+</td>
+
+<td align="center" width="33%">
+<a href="https://www.skills.google/public_profiles/bbddd6ca-6b8f-4a05-bbd3-56a8e1316a1c/badges/9670939">
+<img src="./assets/certs/introduction-generative-ai.png" width="170" height="170"/><br><br>
+
+<b>Introduction to Generative AI</b><br>
+<sub>Earned Jun 2024</sub>
+</a>
+</td>
+
+<td align="center" width="33%">
+<a href="https://www.skills.google/public_profiles/bbddd6ca-6b8f-4a05-bbd3-56a8e1316a1c/badges/21569667">
+<img src="./assets/certs/introduction-llm.png" width="170" height="170"/><br><br>
+
+<b>Introduction to Large Language Models</b><br>
+<sub>Earned Jan 2026</sub>
+</a>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="33%">
+<a href="https://www.skills.google/public_profiles/bbddd6ca-6b8f-4a05-bbd3-56a8e1316a1c/badges/21912284">
+<img src="./assets/certs/introduction-responsible-ai.png" width="170" height="170"/><br><br>
+
+<b>Introduction to Responsible AI</b><br>
+<sub>Earned Feb 2026</sub>
+</a>
+</td>
+
+<td align="center" width="33%">
+<a href="https://www.skills.google/public_profiles/bbddd6ca-6b8f-4a05-bbd3-56a8e1316a1c/badges/21912694">
+<img src="./assets/certs/applying-ai-principles.png" width="170" height="170"/><br><br>
+
+<b>Applying AI Principles with Google Cloud</b><br>
+<sub>Earned Feb 2026</sub>
+</a>
+</td>
+
+<td align="center" width="33%">
+<a href="https://www.skills.google/public_profiles/bbddd6ca-6b8f-4a05-bbd3-56a8e1316a1c/badges/24125969">
+<img src="./assets/certs/introduction-ai-agents.png" width="170" height="170"/><br><br>
+
+<b>Introduction to AI Agents</b><br>
+<sub>Earned May 2026</sub>
+</a>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="33%">
+<a href="https://www.skills.google/public_profiles/bbddd6ca-6b8f-4a05-bbd3-56a8e1316a1c/badges/24126033">
+<img src="./assets/certs/agent-fundamentals.png" width="170" height="170"/><br><br>
+
+<b>Agent Fundamentals</b><br>
+<sub>Earned May 2026</sub>
+</a>
+</td>
+
+<td align="center" width="33%">
+<a href="https://www.skills.google/public_profiles/bbddd6ca-6b8f-4a05-bbd3-56a8e1316a1c/badges/24375284">
+<img src="./assets/certs/arcade-base-camp.png" width="170" height="170"/><br><br>
+
+<b>Arcade Base Camp 2026</b><br>
+<sub>Earned Mar 2026</sub>
+</a>
+</td>
+
+<td align="center" width="33%">
+<a href="https://www.skills.google/public_profiles/bbddd6ca-6b8f-4a05-bbd3-56a8e1316a1c/badges/24125885">
+<img src="./assets/certs/skill-up-summer.png" width="170" height="170"/><br><br>
+
+<b>Skill Up Summer</b><br>
+<sub>Earned May 2026</sub>
+</a>
+</td>
+
+</tr>
+</table>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Adarsh-Singh-Tech&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Adarsh-Singh-Tech&theme=dark&hide_border=false)<br/>
