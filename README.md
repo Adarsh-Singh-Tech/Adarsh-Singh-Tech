@@ -114,7 +114,7 @@ Technical breakdowns|AI industry insights|Project deep-dives|Workflow experiment
 
 <td align="center" width="33%">
 <a href="https://www.skills.google/public_profiles/bbddd6ca-6b8f-4a05-bbd3-56a8e1316a1c/badges/21569667">
-<img src="./assets/certs/introduction-llm.png" width="170" height="170"/><br><br>
+<img src="./assets/certs/62E9D680-AC27-436D-BB17-8BA23C689BC4.png" width="170" height="170"/><br><br>
 
 <b>Introduction to Large Language Models</b><br>
 <sub>Earned Jan 2026</sub>
@@ -127,7 +127,7 @@ Technical breakdowns|AI industry insights|Project deep-dives|Workflow experiment
 
 <td align="center" width="33%">
 <a href="https://www.skills.google/public_profiles/bbddd6ca-6b8f-4a05-bbd3-56a8e1316a1c/badges/21912284">
-<img src="./assets/certs/introduction-responsible-ai.png" width="170" height="170"/><br><br>
+<img src="./assets/certs/3D366FED-D848-4382-96C4-11248E42F706.png" width="170" height="170"/><br><br>
 
 <b>Introduction to Responsible AI</b><br>
 <sub>Earned Feb 2026</sub>
@@ -136,7 +136,7 @@ Technical breakdowns|AI industry insights|Project deep-dives|Workflow experiment
 
 <td align="center" width="33%">
 <a href="https://www.skills.google/public_profiles/bbddd6ca-6b8f-4a05-bbd3-56a8e1316a1c/badges/21912694">
-<img src="./assets/certs/applying-ai-principles.png" width="170" height="170"/><br><br>
+<img src="./assets/certs/A7AFD163-645F-4535-925F-50FC6952A874.png" width="170" height="170"/><br><br>
 
 <b>Applying AI Principles with Google Cloud</b><br>
 <sub>Earned Feb 2026</sub>
@@ -145,7 +145,7 @@ Technical breakdowns|AI industry insights|Project deep-dives|Workflow experiment
 
 <td align="center" width="33%">
 <a href="https://www.skills.google/public_profiles/bbddd6ca-6b8f-4a05-bbd3-56a8e1316a1c/badges/24125969">
-<img src="./assets/certs/introduction-ai-agents.png" width="170" height="170"/><br><br>
+<img src="./assets/certs/5911E917-83A6-4230-A70E-E9476BE59CF1.png" width="170" height="170"/><br><br>
 
 <b>Introduction to AI Agents</b><br>
 <sub>Earned May 2026</sub>
@@ -158,7 +158,7 @@ Technical breakdowns|AI industry insights|Project deep-dives|Workflow experiment
 
 <td align="center" width="33%">
 <a href="https://www.skills.google/public_profiles/bbddd6ca-6b8f-4a05-bbd3-56a8e1316a1c/badges/24126033">
-<img src="./assets/certs/agent-fundamentals.png" width="170" height="170"/><br><br>
+<img src="./assets/certs/23D2F8DB-F157-4A5A-B82C-D45666737B5F.png" width="170" height="170"/><br><br>
 
 <b>Agent Fundamentals</b><br>
 <sub>Earned May 2026</sub>
@@ -167,7 +167,7 @@ Technical breakdowns|AI industry insights|Project deep-dives|Workflow experiment
 
 <td align="center" width="33%">
 <a href="https://www.skills.google/public_profiles/bbddd6ca-6b8f-4a05-bbd3-56a8e1316a1c/badges/24375284">
-<img src="./assets/certs/arcade-base-camp.png" width="170" height="170"/><br><br>
+<img src="./assets/certs/D2F6979D-920F-4EA8-A073-B387F4E34792.png" width="170" height="170"/><br><br>
 
 <b>Arcade Base Camp 2026</b><br>
 <sub>Earned Mar 2026</sub>
@@ -176,7 +176,7 @@ Technical breakdowns|AI industry insights|Project deep-dives|Workflow experiment
 
 <td align="center" width="33%">
 <a href="https://www.skills.google/public_profiles/bbddd6ca-6b8f-4a05-bbd3-56a8e1316a1c/badges/24125885">
-<img src="./assets/certs/skill-up-summer.png" width="170" height="170"/><br><br>
+<img src="./assets/certs/DF1C8B11-2354-4337-8B93-FA571C493F60.png" width="170" height="170"/><br><br>
 
 <b>Skill Up Summer</b><br>
 <sub>Earned May 2026</sub>
