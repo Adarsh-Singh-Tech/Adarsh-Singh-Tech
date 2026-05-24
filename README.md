@@ -65,7 +65,7 @@ Technical breakdowns|AI industry insights|Project deep-dives|Workflow experiment
 
 <td align="center" width="33%">
 <a href="https://www.credly.com/badges/b09a77b3-4377-48cc-b526-ea34f6d8cf69/public_url">
-<img src="./assets/certs/aws-restart-graduate.png" width="170" height="170"/><br><br>
+<img src="./assets/certs/aws-re-start-graduate.png" width="170" height="170"/><br><br>
 
 <b>AWS Re/Start Graduate</b><br>
 <sub>Issued Apr 2023</sub>
@@ -96,7 +96,7 @@ Technical breakdowns|AI industry insights|Project deep-dives|Workflow experiment
 
 <td align="center" width="33%">
 <a href="https://www.credly.com/badges/75abaf73-3dab-4e6d-80b6-97026bd39296/public_url">
-<img src="./assets/certs/prompt-design-vertex-ai.png" width="170" height="170"/><br><br>
+<img src="./assets/certs/prompt-design-in-vertex-ai-skill-badge.png" width="170" height="170"/><br><br>
 
 <b>Prompt Design in Vertex AI</b><br>
 <sub>Earned Mar 2026</sub>
@@ -105,7 +105,7 @@ Technical breakdowns|AI industry insights|Project deep-dives|Workflow experiment
 
 <td align="center" width="33%">
 <a href="https://www.skills.google/public_profiles/bbddd6ca-6b8f-4a05-bbd3-56a8e1316a1c/badges/9670939">
-<img src="./assets/certs/introduction-generative-ai.png" width="170" height="170"/><br><br>
+<img src="./assets/certs/D2758599-CA10-41ED-AA3E-C5CC8445042C.png" width="170" height="170"/><br><br>
 
 <b>Introduction to Generative AI</b><br>
 <sub>Earned Jun 2024</sub>
