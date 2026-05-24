@@ -13,7 +13,7 @@ Technical breakdowns|AI industry insights|Project deep-dives|Workflow experiment
 
 ### ☁️ Cloud • DevOps • Infrastructure
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=gcp,docker,terraform,firebase,github,git,linux,bash,nginx" />
+  <img src="https://skillicons.dev/icons?i=gcp,aws,docker,kubernetes,terraform,firebase,github,git,linux,bash,nginx" />
 </p>
 
 ### 🤖 AI • Data • Analytics
@@ -26,23 +26,37 @@ Technical breakdowns|AI industry insights|Project deep-dives|Workflow experiment
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/API_Integration-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
 ### ⚙️ Backend Engineering
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,postgres,supabase" />
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,postgres,supabase,nextjs" />
 </p>
 
-### 🎨 Frontend Development
+### 🎨 Frontend • UI/UX • Design
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,js,figma" />
 </p>
 
-### 🛠 Tools • Workflow • Productivity
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postman,vscode,notion" />
-</p>yle=for-the-badge&logo=Raspberry-Pi)
-# 📊 GitHub Stats:
+  <img src="https://img.shields.io/badge/Adobe_Express-FF0000?style=for-the-badge&logo=adobe&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe_XD-470137?style=for-the-badge&logo=adobexd&logoColor=FF61F6"/>
+  <img src="https://img.shields.io/badge/Canvas-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Motion-000000?style=for-the-badge&logo=framer&logoColor=white"/>
+</p>
+
+### 🛠 Workflow • Productivity • Collaboration
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postman,vscode,notion,slack" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Emergent_AI-0A0A0A?style=for-the-badge&logo=openai&logoColor=white"/>
+</p># 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Adarsh-Singh-Tech&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Adarsh-Singh-Tech&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Adarsh-Singh-Tech&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
