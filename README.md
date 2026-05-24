@@ -56,7 +56,9 @@ Technical breakdowns|AI industry insights|Project deep-dives|Workflow experiment
   <img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white"/>
   <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
   <img src="https://img.shields.io/badge/Emergent_AI-0A0A0A?style=for-the-badge&logo=openai&logoColor=white"/>
-</p># 📊 GitHub Stats:
+</p>
+
+# 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Adarsh-Singh-Tech&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Adarsh-Singh-Tech&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Adarsh-Singh-Tech&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
