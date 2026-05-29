@@ -167,6 +167,37 @@ Technical breakdowns|AI industry insights|Project deep-dives|Workflow experiment
 
 <td align="center" width="33%">
 <a href="https://www.skills.google/public_profiles/bbddd6ca-6b8f-4a05-bbd3-56a8e1316a1c/badges/24375284">
+<img src="./assets/certs/ADK.png" width="170" height="170"/><br><br>
+
+<b>Build Agents with Agent Development Kit (ADK)</b><br>
+<sub>Earned May 2026</sub>
+</a>
+</td>
+
+<td align="center" width="33%">
+<a href="https://www.skills.google/public_profiles/bbddd6ca-6b8f-4a05-bbd3-56a8e1316a1c/badges/24125885">
+<img src="./assets/certs/Create Your First Gemini Enterprise Application.png" width="170" height="170"/><br><br>
+
+<b>Create Your First Gemini Enterprise Application</b><br>
+<sub>Earned May 2026</sub>
+</a>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="33%">
+<a href="https://www.skills.google/public_profiles/bbddd6ca-6b8f-4a05-bbd3-56a8e1316a1c/badges/24126033">
+<img src="./assets/certs/Arcade badge 3.png" width="170" height="170"/><br><br>
+
+<b>Work Meets Play: Expressive Efficiency</b><br>
+<sub>Earned May 2026</sub>
+</a>
+</td>
+
+<td align="center" width="33%">
+<a href="https://www.skills.google/public_profiles/bbddd6ca-6b8f-4a05-bbd3-56a8e1316a1c/badges/24375284">
 <img src="./assets/certs/D2F6979D-920F-4EA8-A073-B387F4E34792.png" width="170" height="170"/><br><br>
 
 <b>Arcade Base Camp 2026</b><br>
@@ -184,6 +215,7 @@ Technical breakdowns|AI industry insights|Project deep-dives|Workflow experiment
 </td>
 
 </tr>
+
 </table>
 
 # 📊 GitHub Stats:
