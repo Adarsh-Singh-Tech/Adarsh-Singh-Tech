@@ -188,7 +188,7 @@ Technical breakdowns|AI industry insights|Project deep-dives|Workflow experiment
 <tr>
 
 <td align="center" width="33%">
-<a href="https://www.skills.google/public_profiles/bbddd6ca-6b8f-4a05-bbd3-56a8e1316a1c/badges/24126033">
+<a href="https://www.skills.google/public_profiles/bbddd6ca-6b8f-4a05-bbd3-56a8e1316a1c/badges/24419250">
 <img src="./assets/certs/Arcade badge 3.png" width="170" height="170"/><br><br>
 
 <b>Work Meets Play: Expressive Efficiency</b><br>
@@ -219,7 +219,7 @@ Technical breakdowns|AI industry insights|Project deep-dives|Workflow experiment
 <tr>
 
 <td align="center" width="33%">
-<a href="https://www.skills.google/public_profiles/bbddd6ca-6b8f-4a05-bbd3-56a8e1316a1c/badges/24126033">
+<a href="https://www.skills.google/public_profiles/bbddd6ca-6b8f-4a05-bbd3-56a8e1316a1c/badges/24745877">
 <img src="./assets/certs/Google Skills Arcade Jun 2026.png" width="170" height="170"/><br><br>
 
 <b>Arcade Adventure: App Dev and Cloud Observability</b><br>
