@@ -58,6 +58,12 @@ Technical breakdowns|AI industry insights|Project deep-dives|Workflow experiment
   <img src="https://img.shields.io/badge/Emergent_AI-0A0A0A?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
 
+### 🛡️ Enterprise Security Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Trend_Vision_One-E4002B?style=for-the-badge&logo=trendmicro&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Netskope-00AEEF?style=for-the-badge&logo=netskope&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HCL_BigFix-0066CC?style=for-the-badge&logo=hcl&logoColor=white"/>
+</p>
 ## ☁️ Cloud • AI • Infrastructure Certifications
 
 <table>
