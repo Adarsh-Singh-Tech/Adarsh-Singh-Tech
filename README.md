@@ -1,9 +1,14 @@
 #  About Me:
-AI Builder | Data & Automation Enthusiast | Developing intelligent systems powered by LLMs, analytics, and multi-agent workflows. Focused on real-world AI applications across healthcare, data intelligence, and automation.
+Cybersecurity Professional | AI Builder | Data & Automation Enthusiast
+Building secure and intelligent systems powered by Cybersecurity, LLMs, AI agents, data analytics, and automation. Exploring real-world applications across endpoint security, UEM, network security, data intelligence, and enterprise automation.
 
 # I regularly share:
 
-Technical breakdowns|AI industry insights|Project deep-dives|Workflow experiments|Engineering learnings
+🔐 Cybersecurity & Enterprise Security
+🤖 AI, LLMs & Multi-Agent Workflows
+📊 Data Intelligence & Analytics
+⚙️ Automation & Engineering Experiments
+🚀 Project Deep-Dives & Technical Learnings
 
 
 ## 🌐 Connect With Me:
