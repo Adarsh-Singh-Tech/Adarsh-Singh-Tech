@@ -256,7 +256,29 @@ Building secure and intelligent systems powered by Cybersecurity, LLMs, AI agent
     </td>
 
 </tr>
-
+<tr>
+    <td align="center" width="33%">
+      <a href="YOUR_VERIFICATION_LINK_HERE">
+        <img src="./assets/certs/A+-png.png" width="170" height="170"/><br><br>
+        <b>CompTIA A+</b><br>
+        <sub>Earned Nov 2026</sub>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.google.com">
+        <img src="./assets/certs/Comming Soon.png" width="170" height="170"/><br><br>
+        <b>New Skill Unlocking Soon...</b><br>
+        <sub>Earned | 2026</sub>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.google.com">
+        <img src="./assets/certs/Comming Soon.png" width="170" height="170"/><br><br>
+        <b>New Skill Unlocking Soon...</b><br>
+        <sub>Earned | 2026</sub>
+      </a>
+    </td>
+  </tr>
 </table>
 
 # 📊 GitHub Stats:
