@@ -68,6 +68,10 @@ Building secure and intelligent systems powered by Cybersecurity, LLMs, AI agent
   <img src="https://img.shields.io/badge/Trend_Vision_One-E4002B?style=for-the-badge&logo=trendmicro&logoColor=white"/>
   <img src="https://img.shields.io/badge/Netskope-00AEEF?style=for-the-badge&logo=netskope&logoColor=white"/>
   <img src="https://img.shields.io/badge/HCL_BigFix-0066CC?style=for-the-badge&logo=hcl&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Trend%20Vision%20One-D71920?style=for-the-badge&logo=trendmicro&logoColor=white" alt="Trend Vision One" />
+  <img src="https://img.shields.io/badge/Netskope-00A3E0?style=for-the-badge&logo=netskope&logoColor=white" alt="Netskope" />
+  <img src="https://img.shields.io/badge/HCL%20BigFix-0066B3?style=for-the-badge&logo=hcl&logoColor=white" alt="HCL BigFix" />
+</p>
 </p>
 ## ☁️ Cloud • AI • Infrastructure Certifications
 
